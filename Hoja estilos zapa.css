@@ -1,0 +1,18 @@
+#grad {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(120,223,231,1));
+}
+h1 {
+	color: #426D8A;
+	font-family: verdana;
+	font-size: 50px;
+	font-weight: bolder;
+	font-variant: small-caps;
+}
+img#img1 {
+  border: #426D8A 5px dotted;
+}
+h3 {
+	font-family: courier;
+	font-size: 40px;
+	font-style: bolder;
+}
